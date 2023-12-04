@@ -11,7 +11,7 @@ Add a backup schedule.
 
 ## Request Sample
 
-```
+```json
 {
   "task": "addbackupinfo",
   "token": "cdfb4c5717170c5e51196b3bf16112949ea2e1dcf05030c13351f8d4306356bf7926f07dd201b6aa",
@@ -42,7 +42,7 @@ Add a backup schedule.
 
 ## Response Sample
 
-```
+```json
 {
    "__EXEC_TIME" : "72 ms",
    "note" : "none",
