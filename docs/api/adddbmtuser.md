@@ -11,7 +11,7 @@ The adddbmtuser interface will create new databases manager user.
 
 ## Request Sample
 
-```
+```json
 {
   "task": "adddbmtuser",
   "token": "cdfb4c5717170c5e357a14c1a398b40dd9d0db2c2c46fecac2a1ca5aa96e21aa7926f07dd201b6aa",
@@ -34,7 +34,7 @@ The adddbmtuser interface will create new databases manager user.
 
 ## Response Sample
 
-```
+```json
 {
   "__EXEC_TIME": "72 ms",
   "note": "none",
